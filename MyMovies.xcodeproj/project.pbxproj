@@ -21,6 +21,16 @@
 		0FC627F218F386B50097E420 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0FC627D418F386B50097E420 /* UIKit.framework */; };
 		0FC627FA18F386B50097E420 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0FC627F818F386B50097E420 /* InfoPlist.strings */; };
 		0FC627FC18F386B50097E420 /* MyMoviesTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FC627FB18F386B50097E420 /* MyMoviesTests.m */; };
+		0FC6280818F388A80097E420 /* OCounty.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 0FC6280518F388A80097E420 /* OCounty.mp4 */; };
+		0FC6280918F388A80097E420 /* Gravity.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 0FC6280618F388A80097E420 /* Gravity.mp4 */; };
+		0FC6280A18F388A80097E420 /* Taken.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 0FC6280718F388A80097E420 /* Taken.mp4 */; };
+		0FC6280F18F388E10097E420 /* Screen Shot 2014-04-07 at 8.15.43 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 0FC6280C18F388E10097E420 /* Screen Shot 2014-04-07 at 8.15.43 PM.png */; };
+		0FC6281018F388E10097E420 /* Screen Shot 2014-04-07 at 8.17.01 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 0FC6280D18F388E10097E420 /* Screen Shot 2014-04-07 at 8.17.01 PM.png */; };
+		0FC6281118F388E10097E420 /* Screen Shot 2014-04-07 at 8.17.47 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 0FC6280E18F388E10097E420 /* Screen Shot 2014-04-07 at 8.17.47 PM.png */; };
+		0FC6281518F38C3C0097E420 /* Trailer1ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FC6281418F38C3C0097E420 /* Trailer1ViewController.m */; };
+		0FC6281818F38C630097E420 /* Trailer2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FC6281718F38C630097E420 /* Trailer2ViewController.m */; };
+		0FC6281B18F38C750097E420 /* Trailer3ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FC6281A18F38C750097E420 /* Trailer3ViewController.m */; };
+		0FC6281D18F38F8F0097E420 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0FC6281C18F38F8F0097E420 /* MediaPlayer.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +63,19 @@
 		0FC627F718F386B50097E420 /* MyMoviesTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MyMoviesTests-Info.plist"; sourceTree = "<group>"; };
 		0FC627F918F386B50097E420 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0FC627FB18F386B50097E420 /* MyMoviesTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyMoviesTests.m; sourceTree = "<group>"; };
+		0FC6280518F388A80097E420 /* OCounty.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = OCounty.mp4; path = ../../Trailers/OCounty.mp4; sourceTree = "<group>"; };
+		0FC6280618F388A80097E420 /* Gravity.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = Gravity.mp4; path = ../../Trailers/Gravity.mp4; sourceTree = "<group>"; };
+		0FC6280718F388A80097E420 /* Taken.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = Taken.mp4; path = ../../Trailers/Taken.mp4; sourceTree = "<group>"; };
+		0FC6280C18F388E10097E420 /* Screen Shot 2014-04-07 at 8.15.43 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2014-04-07 at 8.15.43 PM.png"; path = "../VideoStuff/Screen Shot 2014-04-07 at 8.15.43 PM.png"; sourceTree = "<group>"; };
+		0FC6280D18F388E10097E420 /* Screen Shot 2014-04-07 at 8.17.01 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2014-04-07 at 8.17.01 PM.png"; path = "../VideoStuff/Screen Shot 2014-04-07 at 8.17.01 PM.png"; sourceTree = "<group>"; };
+		0FC6280E18F388E10097E420 /* Screen Shot 2014-04-07 at 8.17.47 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2014-04-07 at 8.17.47 PM.png"; path = "../VideoStuff/Screen Shot 2014-04-07 at 8.17.47 PM.png"; sourceTree = "<group>"; };
+		0FC6281318F38C3C0097E420 /* Trailer1ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Trailer1ViewController.h; sourceTree = "<group>"; };
+		0FC6281418F38C3C0097E420 /* Trailer1ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Trailer1ViewController.m; sourceTree = "<group>"; };
+		0FC6281618F38C630097E420 /* Trailer2ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Trailer2ViewController.h; sourceTree = "<group>"; };
+		0FC6281718F38C630097E420 /* Trailer2ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Trailer2ViewController.m; sourceTree = "<group>"; };
+		0FC6281918F38C750097E420 /* Trailer3ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Trailer3ViewController.h; sourceTree = "<group>"; };
+		0FC6281A18F38C750097E420 /* Trailer3ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Trailer3ViewController.m; sourceTree = "<group>"; };
+		0FC6281C18F38F8F0097E420 /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +83,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0FC6281D18F38F8F0097E420 /* MediaPlayer.framework in Frameworks */,
 				0FC627D318F386B50097E420 /* CoreGraphics.framework in Frameworks */,
 				0FC627D518F386B50097E420 /* UIKit.framework in Frameworks */,
 				0FC627D118F386B50097E420 /* Foundation.framework in Frameworks */,
@@ -82,6 +106,8 @@
 		0FC627C418F386B50097E420 = {
 			isa = PBXGroup;
 			children = (
+				0FC6281218F38BFC0097E420 /* Trailers */,
+				0FC6280B18F388BE0097E420 /* Images */,
 				0FC627D618F386B50097E420 /* MyMovies */,
 				0FC627F518F386B50097E420 /* MyMoviesTests */,
 				0FC627CF18F386B50097E420 /* Frameworks */,
@@ -101,6 +127,7 @@
 		0FC627CF18F386B50097E420 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				0FC6281C18F38F8F0097E420 /* MediaPlayer.framework */,
 				0FC627D018F386B50097E420 /* Foundation.framework */,
 				0FC627D218F386B50097E420 /* CoreGraphics.framework */,
 				0FC627D418F386B50097E420 /* UIKit.framework */,
@@ -126,6 +153,9 @@
 		0FC627D718F386B50097E420 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				0FC6280518F388A80097E420 /* OCounty.mp4 */,
+				0FC6280618F388A80097E420 /* Gravity.mp4 */,
+				0FC6280718F388A80097E420 /* Taken.mp4 */,
 				0FC627D818F386B50097E420 /* MyMovies-Info.plist */,
 				0FC627D918F386B50097E420 /* InfoPlist.strings */,
 				0FC627DC18F386B50097E420 /* main.m */,
@@ -150,6 +180,29 @@
 				0FC627F818F386B50097E420 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		0FC6280B18F388BE0097E420 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				0FC6280C18F388E10097E420 /* Screen Shot 2014-04-07 at 8.15.43 PM.png */,
+				0FC6280D18F388E10097E420 /* Screen Shot 2014-04-07 at 8.17.01 PM.png */,
+				0FC6280E18F388E10097E420 /* Screen Shot 2014-04-07 at 8.17.47 PM.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		0FC6281218F38BFC0097E420 /* Trailers */ = {
+			isa = PBXGroup;
+			children = (
+				0FC6281318F38C3C0097E420 /* Trailer1ViewController.h */,
+				0FC6281418F38C3C0097E420 /* Trailer1ViewController.m */,
+				0FC6281618F38C630097E420 /* Trailer2ViewController.h */,
+				0FC6281718F38C630097E420 /* Trailer2ViewController.m */,
+				0FC6281918F38C750097E420 /* Trailer3ViewController.h */,
+				0FC6281A18F38C750097E420 /* Trailer3ViewController.m */,
+			);
+			name = Trailers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -229,6 +282,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0FC6281118F388E10097E420 /* Screen Shot 2014-04-07 at 8.17.47 PM.png in Resources */,
+				0FC6280918F388A80097E420 /* Gravity.mp4 in Resources */,
+				0FC6280818F388A80097E420 /* OCounty.mp4 in Resources */,
+				0FC6280A18F388A80097E420 /* Taken.mp4 in Resources */,
+				0FC6280F18F388E10097E420 /* Screen Shot 2014-04-07 at 8.15.43 PM.png in Resources */,
+				0FC6281018F388E10097E420 /* Screen Shot 2014-04-07 at 8.17.01 PM.png in Resources */,
 				0FC627E918F386B50097E420 /* Images.xcassets in Resources */,
 				0FC627DB18F386B50097E420 /* InfoPlist.strings in Resources */,
 				0FC627E418F386B50097E420 /* Main.storyboard in Resources */,
@@ -250,8 +309,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0FC6281B18F38C750097E420 /* Trailer3ViewController.m in Sources */,
 				0FC627DD18F386B50097E420 /* main.m in Sources */,
 				0FC627E118F386B50097E420 /* MyMoviesAppDelegate.m in Sources */,
+				0FC6281818F38C630097E420 /* Trailer2ViewController.m in Sources */,
+				0FC6281518F38C3C0097E420 /* Trailer1ViewController.m in Sources */,
 				0FC627E718F386B50097E420 /* MyMoviesViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
